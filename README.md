@@ -1,3 +1,3 @@
 # dream_coffee
-This is a fictional company's website.
-You can check my website here: https://glistening-dragon-209bd8.netlify.app/, thanks for Netlify.
+This is a fictional company's website with Codecademy. I used HTML and CSS.
+
