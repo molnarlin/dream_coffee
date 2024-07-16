@@ -32,8 +32,8 @@ header {
 }
 #logo {
   
-  width: 60px;
-  height: 40px;
+  width: 6rem;
+  height: 4rem;
 }
 .row {
   width: 100%;
@@ -54,8 +54,8 @@ h4 {
   color: #3e4444;
 }
 img {
-  width: 300px;
-  height: 250px;
+  width: 30rem;
+  height: 25rem;
 }
 .column {
   flex: 25%;
@@ -69,11 +69,11 @@ img {
   vertical-align: middle;
 }
 .staff {
-  width: 300px;
-  height: 300px;
+  width: 30rem;
+  height: 30rem;
 }
 footer {
-  padding: 20px;
+  padding: 2rem;
   text-align: center;
   background: #82b74b;
 }
